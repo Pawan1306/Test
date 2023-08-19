@@ -1,0 +1,32 @@
+ # abc {
+    background-image: url('https://images.unsplash.com/photo-1689656966481-043a970b7c76?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80');
+    width:100vw
+    height:100vh
+   }
+
+#a {
+    color: orangered
+    font-family:  Arial, Helvetica, sans-serif
+    font-size: 120px
+    font-style: bold;
+}
+
+#b {
+    color: orangered
+    font-family :  Arial, Helvetica, sans-serif
+    font-size: 120px
+    font-style: bold;
+    margin-bottom: 30px;
+}
+
+#c{
+   background-color: #ff6600;
+    color: #fff;
+    font-family :  Arial, Helvetica, sans-serif
+    font-size: 18pxpx;
+     font style: bold;
+    padding: 10px 20px; 
+     margin: 15px;
+    border-radius: 15px;
+    text-transform: uppercase
+}
